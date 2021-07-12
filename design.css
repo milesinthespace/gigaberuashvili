@@ -1,0 +1,82 @@
+
+
+header {
+	margin-bottom: 30px;
+}
+
+
+
+#logo {
+	display: inline-block;
+	width: 90px; 
+	height: 90px;
+	padding-left:15px ;
+}
+
+nav a {
+	color: inherit;
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 17,5px;
+}
+
+nav a:hover {
+color: dimgray;
+font-size: 20px ;
+}
+
+nav li {
+	display: inline;
+	margin-right: 20px;
+
+}
+nav {
+	    display: inline-block; 
+	  margin-left: 920px;
+
+}
+
+footer {
+	border-width: 2px;
+	border-style: solid;
+	background-color: black;
+}
+
+footer h3 {
+	color: white;
+	margin-left: 500px;
+}
+
+
+/*main*/
+
+
+
+img {
+	width: 300px;
+}
+
+.article1 
+{
+display: inline-block;
+margin-left: 70px;
+width: 35%;
+padding: 50px;
+
+}
+
+.article1 img {
+	padding: 0px 50px 0px 50px;
+}
+
+.article1 a {
+	color: inherit;
+	font-weight: bold;
+	font-size: 17px;
+	text-decoration: none;
+}
+.article1 a:hover {
+	color: gray;
+	font-size: 18px;
+
+}

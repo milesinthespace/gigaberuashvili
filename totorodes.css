@@ -1,0 +1,76 @@
+
+
+header {
+	margin-bottom: 30px;
+}
+
+
+#logo {
+	display: inline-block;
+	width: 90px; 
+	height: 90px;
+	padding-left:15px ;
+}
+
+nav a {
+	color: inherit;
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 17,5px;
+}
+
+nav a:hover {
+color: dimgray;
+font-size: 20px ;
+}
+
+nav li {
+	display: inline;
+	margin-right: 20px;
+
+}
+nav {
+	    display: inline-block; 
+	  margin-left: 920px;
+
+}
+
+footer {
+	border-width: 2px;
+	border-style: solid;
+	background-color: black;
+}
+
+footer h3 {
+	color: white;
+	margin-left: 500px;
+}
+
+
+/*totoro*/
+
+.title {
+	margin-left: 420px;
+}
+
+section img {
+	margin-left: 350px;
+	
+}
+ h4 {
+	margin: 0px 300px 0px 300px;
+}
+.link {
+	margin: 0px 300px 0px 300px;
+	color: inherit;
+	text-decoration: none;
+	font-size: 18px;
+	font-weight: bold;
+}
+
+
+.link:hover {
+	color: gray;
+	font-size: 19px;
+
+} 
